@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Girish922005
+- 👋 Hi, I’m @Girish Madarkar
 - 👀 I’m interested in content creation
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on frontend developer related work.
