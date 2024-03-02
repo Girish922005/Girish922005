@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girish922005
 - 👀 I’m interested in content creation
-- 🌱 I’m currently learning full stack web developer.
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on frontend developer related work.
 - 📫 Reach me via email : girishmadarkar2@gmail.com 
 - ⚡ Fun fact: I am lazy but smart.
